@@ -168,6 +168,11 @@
 				TargetAttributes = {
 					B3FD31C81B5C254A0048EB99 = {
 						CreatedOnToolsVersion = 6.3.2;
+						SystemCapabilities = {
+							com.apple.Maps.iOS = {
+								enabled = 0;
+							};
+						};
 					};
 					B3FD31E11B5C254A0048EB99 = {
 						CreatedOnToolsVersion = 6.3.2;
